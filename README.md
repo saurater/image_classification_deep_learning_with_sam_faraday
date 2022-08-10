@@ -1,4 +1,4 @@
-# deeplearningwithsamfaraday
+# Deep Learning with Sam  Faraday
 
 Deep Learning with Sam Faraday
 
